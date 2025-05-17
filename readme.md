@@ -75,7 +75,4 @@ Este projeto é livre para uso pessoal ou comercial. Créditos são sempre bem-v
 
 ```
 
----
-
-Pronto para colar no seu `README.md` ou diretamente no GitHub! Se quiser que ele aceite entrada por arquivo JSON ou interface simples, posso te ajudar a estender.
 ```
